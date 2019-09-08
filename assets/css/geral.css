@@ -1,0 +1,12 @@
+li {
+  margin-left: 10em;
+  margin-right: 10em;
+}
+
+.novo {
+  margin: 1em 10em;
+}
+
+.flex {
+  display: flex;
+}

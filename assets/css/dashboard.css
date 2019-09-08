@@ -1,0 +1,7 @@
+.trophie-true svg {
+  fill: yellow;
+}
+
+.trophie-false svg{
+  fill: grey;
+}
